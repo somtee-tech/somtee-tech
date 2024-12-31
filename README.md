@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @somtee-tech
-- 👀 I’m interested in software engineering, fin tech, business, personal development, your growth as well.
+- 👀 I’m interested in Artificial Intelligence, fin tech, business, personal development, your growth as well.
 - 🌱 I’m currently learning software engineering at ALX Africa
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on twitter @AnisiubaS
